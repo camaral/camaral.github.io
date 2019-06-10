@@ -1,0 +1,14 @@
+title: "Caio Amaral"
+description: >-
+  Software Architecture and SecDevOps.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: camaral
+github_username:  camaral
+
+markdown: kramdown
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
+
+github: [metadata]
