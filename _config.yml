@@ -8,7 +8,7 @@ github_username:  camaral
 
 markdown: kramdown
 theme: jekyll-theme-minimal
-plugins:
-  - jekyll-feed
-
 github: [metadata]
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
